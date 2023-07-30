@@ -52,6 +52,7 @@ ul.nav {
     color: white;
     float: inline-start;
     text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .a:hover {
@@ -110,7 +111,7 @@ ul.nav {
     font-size: 20px;
     padding-left: 15%;
     padding-right: 15%;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 
 }
 
